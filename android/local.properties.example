@@ -1,0 +1,6 @@
+# Copie este arquivo para "local.properties" (sem .example) e ajuste os caminhos
+# para a sua máquina. O Android Studio faz isso automaticamente na primeira
+# abertura do projeto, então normalmente você não precisa criar este arquivo à mão.
+#
+# sdk.dir=/caminho/para/o/Android/sdk
+# flutter.sdk=/caminho/para/o/flutter
