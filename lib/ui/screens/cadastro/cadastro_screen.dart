@@ -40,7 +40,6 @@ class _CadastroScreenState extends State<CadastroScreen> {
   }
 
   void buscarCepMock(String cep) {
-    // Simula a integração com ViaCEP feita no frontend web, mas 100% mockada aqui.
     if (cep.length >= 8) {
       setState(() {
         enderecoCtrl.text = 'Av. Paulista';
@@ -75,7 +74,7 @@ class _CadastroScreenState extends State<CadastroScreen> {
           ),
           const SizedBox(height: 10),
           const Text(
-            'Seus dados foram registrados (mock). Nossa equipe de saúde avaliará seu '
+            'Seus dados foram registrados. Nossa equipe de saúde avaliará seu '
             'cadastro antes da liberação das doações.',
             textAlign: TextAlign.center,
             style: TextStyle(color: AppColors.brand, fontSize: 14),
@@ -132,9 +131,7 @@ class _CadastroScreenState extends State<CadastroScreen> {
                 inputFormatters: [FilteringTextInputFormatter.digitsOnly],
                 onChanged: buscarCepMock,
                 decoration: const InputDecoration(
-                  labelText: 'CEP',
-                  helperText: 'Endereço preenchido automaticamente (mock ViaCEP)',
-                ),
+                  labelText: 'CEP'                ),
               ),
               const SizedBox(height: 12),
               TextField(
