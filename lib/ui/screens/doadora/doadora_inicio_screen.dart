@@ -1,6 +1,6 @@
+import 'package:conecta_lactare/data/model/mock/mock_data.dart';
 import 'package:flutter/material.dart';
 
-import '../../../data/mock/mock_data.dart';
 import '../../../data/model/models.dart';
 import '../../../theme/app_theme.dart';
 import '../../components/common.dart';
