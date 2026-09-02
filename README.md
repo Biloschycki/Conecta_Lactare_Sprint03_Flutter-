@@ -105,6 +105,13 @@ a área da doadora e a área do gestor.
 | ![Doadoras](docs/screenshots/16-gestor-doadoras.png) **Doadoras** — listagem de todas as doadoras cadastradas na plataforma e seus status (aprovada, em avaliação, não aprovada). | ![Coletas da plataforma](docs/screenshots/17-gestor-coletas.png) **Coletas** — todas as coletas sinalizadas por todas as doadoras, com status e modalidade. |
 | ![Auditoria](docs/screenshots/18-gestor-auditoria.png) **Auditoria** — histórico de ações administrativas (aprovações, reprovações, edições de conteúdo e confirmações de coleta). | |
 
+## Vídeos de navegação
+
+Vídeos demonstrando a navegação e as funcionalidades do app em execução:
+
+- 🎥 [Navegação — Parte 1](https://youtu.be/W6giOpOhdLI)
+- 🎥 [Navegação — Parte 2](https://youtu.be/_XyyHD8AD3c)
+
 ## Dados mockados utilizados
 
 | Modelo | Representa | Exemplos incluídos |
