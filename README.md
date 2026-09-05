@@ -112,6 +112,10 @@ Vídeos demonstrando a navegação e as funcionalidades do app em execução:
 - 🎥 [Navegação — Parte 1](https://youtu.be/W6giOpOhdLI)
 - 🎥 [Navegação — Parte 2](https://youtu.be/_XyyHD8AD3c)
 
+## Repositório no Github
+
+- https://github.com/Biloschycki/Conecta_Lactare_Sprint03_Flutter-
+
 ## Dados mockados utilizados
 
 | Modelo | Representa | Exemplos incluídos |
